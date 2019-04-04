@@ -1,0 +1,22 @@
+{
+  "name": "seeya",
+  "version": "1.0.0",
+  "description": "Dating application with mobile companion that utilizes social connections through social discovery, and interactions on our live chat server. Find your match! This is a personal project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjjply42/seeya.git"
+  },
+  "author": "majones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjjply42/seeya/issues"
+  },
+  "homepage": "https://github.com/mjjply42/seeya#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
